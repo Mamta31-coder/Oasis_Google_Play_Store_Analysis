@@ -455,6 +455,22 @@ These are possible extensions and are not claimed as completed features.
 
 ## 👩‍💻 Author
 
+**Mamta Chaudhary**
+
+BSc Data Science & Artificial Intelligence
+
+Interested in **Data Analytics, Business Intelligence, Machine Learning, and Data Science**.
+
+### Connect with me
+
+📧 **Email:** choudharymamta1003@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/mamta-chaudhary-964128353/
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
+
 **Data Science and Artificial Intelligence Student**
 
 This project was developed as part of my data analytics learning and portfolio development journey.
